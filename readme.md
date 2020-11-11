@@ -22,7 +22,7 @@ My brother got me into web development and showed me in 4th grade how to make a 
 
 <div>
 
-[<img alt="unsignedmind | Medium" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" height="30">][website]
+[<img alt="unsignedmind | Medium" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" height="30">][website]
 
 </div>
 
