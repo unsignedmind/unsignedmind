@@ -22,19 +22,19 @@ My brother got me into web development and showed me in 4th grade how to make a 
 
 <div>
 
-[<img alt="unsignedmind | Medium" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" height="30" width="30">][website]
+[<img align="left" alt="unsignedmind | Medium" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" height="30" width="30">][website]
 
 </div>
 
 <div>
 
-[<img alt="unsignedmind | Twitter" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="unsignedmind | Twitter" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 </div>
 
 <div>
 
-[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="unsignedmind's DEV Profile" height="30" width="30">][dev]
+[<img align="left" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="unsignedmind's DEV Profile" height="30" width="30">][dev]
 
 </div>
 </div>
