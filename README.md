@@ -4,9 +4,9 @@
 
 ## \$ whoami
 
-I am a frontend developer mainly focused on Angular for e-commerce, but I like to learn new things, be it web development or other languages.
+I am a frontend developer mainly focused on Angular.
 
-My brother got me into web development and showed me in 4th grade how to make a website for my flash animations with Adobe Dreamweaver. From there on it progressed. I learned HTML and CSS at first. Later in middle school I started to build stuff with PHP. During school for my apprenticeship I got in contact with C++, C# and, Java. I teached myself angular and wrote my exam in it. After one year a company picked me up and I learned Angular from professionals and I took a javascript course :D because my JS experience came fully from angular. 5Head :D... At that company I learned also about Git, GraphQL, Sass and how big projects work.
+My brother got me into web development. It started in 4th grade when he showed me how to make a website for my flash animations with Adobe Dreamweaver. From there on it progressed. I learned HTML and CSS at first. Later in middle school I started to build stuff with PHP. During school for my apprenticeship I got in contact with C++, C# and, Java. I teached myself angular and wrote my exam in it. After one year a company picked me up and I learned Angular from professionals and I took a javascript course :D because my JS experience came fully from angular. 5Head :D... At that company I learned also about Git, GraphQL, Sass and how big projects work.
 
 - 🌱 I’m currently learning React and Redux
 - 👯 I’m looking to get more into the dev community
@@ -15,6 +15,19 @@ My brother got me into web development and showed me in 4th grade how to make a 
   - I like pyschology
   - I wrote a text game in batch with 2000+ lines of code because I liked the crazy things that happen on screens in movies when hackers do something 🤣
   - I play CS:GO a lot
+
+---
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+- [Redux Typescript Concept for Less Boilerplate](https://dev.to/unsignedmind/redux-typescritp-concept-reduce-boilerplate-44fk)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][dev]
+
+---
 
 ### Connect with me:
 
@@ -70,22 +83,8 @@ My brother got me into web development and showed me in 4th grade how to make a 
 </div>
 
 <br />
-<br />
 
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...][dev]
-
----
-
-GitHub Stats
-
-[![Unsignedmind's github stats](https://github-readme-stats.vercel.app/api?username=unsignedmind&show_icons=true&hide_border=true)](https://github.com/unsignedmind/github-readme-stats)
+### Github Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unsignedmind&layout=compact&hide_border=true)](https://github.com/unsignedmind/github-readme-stats)
 
