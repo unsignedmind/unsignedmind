@@ -77,7 +77,6 @@ My brother got me into web development and showed me in 4th grade how to make a 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][dev]
