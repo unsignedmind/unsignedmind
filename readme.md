@@ -18,11 +18,11 @@ My brother got me into web development and showed me in 4th grade how to make a 
 
 ### Connect with me:
 
-<div style="display: flex; justify-content: space-evenly; align-items: baseline; background-color: #edf6ff; padding: 10px; width: 150px; height: 40px; border-radius: 5px;">
+<div style="display: flex; justify-content: space-evenly; align-items: baseline; background-color: #fff; padding: 10px; width: 250px; height: 30px; border-radius: 5px;">
 
-<div style="padding-top: 3px">
+<div>
 
-[<img src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" height="30">][website]
+[<img alt="unsignedmind | Medium" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" height="30">][website]
 
 </div>
 
@@ -43,7 +43,7 @@ My brother got me into web development and showed me in 4th grade how to make a 
 
 ### Skills:
 
-<div style="display: flex; justify-content: space-evenly; align-items: felx-start; background-color: #edf6ff; padding: 10px; width: 100%; height: 30px; border-radius: 5px;">
+<div style="display: flex; justify-content: space-evenly; align-items: felx-start; background-color: #fff; padding: 10px; width: 100%; height: 30px; border-radius: 5px;">
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
