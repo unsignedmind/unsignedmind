@@ -21,7 +21,6 @@ How did I get into web development? It started in 4th grade when my big brother 
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Redux Typescript Concept for Less Boilerplate](https://dev.to/unsignedmind/redux-typescritp-concept-reduce-boilerplate-44fk)
 <!-- BLOG-POST-LIST:END -->
 
