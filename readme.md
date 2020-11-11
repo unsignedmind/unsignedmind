@@ -22,13 +22,13 @@ My brother got me into web development and showed me in 4th grade how to make a 
 
 <div>
 
-[<img alt="unsignedmind | Medium" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" height="30">][website]
+[<img alt="unsignedmind | Medium" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" height="30" width="30">][website]
 
 </div>
 
 <div>
 
-[<img align="left" alt="unsignedmind | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img alt="unsignedmind | Twitter" height="30" width="30" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 </div>
 
