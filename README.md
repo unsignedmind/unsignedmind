@@ -1,4 +1,4 @@
-### Hello there, I'm Niklas or [unsignedmind][website] 👋
+### Hello there, I'm [unsignedmind][website] 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/unsignedmind?color=FF9900&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%unsignedmind&screen_name=unsignedmind)
 
