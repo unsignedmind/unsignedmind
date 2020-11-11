@@ -18,7 +18,7 @@ My brother got me into web development and showed me in 4th grade how to make a 
 
 ### Connect with me:
 
-<div style="display: flex; justify-content: space-evenly; align-items: baseline; background-color: #fff; padding: 10px; width: 250px; height: 30px; border-radius: 5px;">
+<div style="display: flex; justify-content: space-evenly; align-items: baseline; background-color: #fff; padding: 10px; width: 100%; height: 30px; border-radius: 5px;">
 
 <div>
 
