@@ -4,10 +4,13 @@
 
 ## \$ whoami
 
-I am a frontend developer mainly focused on Angular.
+I'm a frontend developer who mainly focuses on Angular.
 
-How did I get into web development? It started in 4th grade when my big brother showed me how to make a website for my flash animations with Adobe Dreamweaver. From there on it progressed. I learned HTML and CSS at first. Later in middle school I started to build stuff with PHP. During school for my apprenticeship I got in contact with C++, C# and, Java. I teached myself angular and wrote my exam in it. After one year a company picked me up and I learned Angular from professionals and I took a javascript course :D because my JS experience came fully from angular. 5Head :D... At that company I learned also about Git, GraphQL, Sass and how big projects work.
+How did I come to web development? It all started in the 4th grade when my big brother showed me how to create a website for my Flash animations using Adobe Dreamweaver. From then on it went on. First I learned HTML and CSS. Later in middle school I started to create some projects with PHP. The biggest ones were a film critic website and a tournament bracket solution.
 
+During my apprenticeship at school I came in contact with C++, C# and Java. I taught myself angular and wrote my final apprenticeship exam in it. One year later a company picked me up. I moved to a new city and started living alone. 
+
+In this new company I learned angular from professionals, teamwork with Git, GraphQL, Sass and how big projects work. I also took some Javascript online courses :D because my JS experience came entirely from Angular. 5Head :D.
 - 🌱 I’m currently learning React and Redux
 - 👯 I’m looking to get more into the dev community
 - 🥅 2021 Goals: Doing some side projects again
