@@ -12,7 +12,6 @@ During my apprenticeship at school I came into contact with C++, C# and Java. I 
 
 In this new company I learned angular from professionals, teamwork with Git, GraphQL, Sass and how big projects work. I also took some Javascript online courses :D because my JS experience came entirely from Angular. 5Head :D.
 
-In this new company I learned angular from professionals, teamwork with Git, GraphQL, Sass and how big projects work. I also took some Javascript online courses :D because my JS experience came entirely from Angular. 5Head :D.
 - 🌱 I’m currently learning React and Redux
 - 👯 I’m looking to get more into the dev community
 - 🥅 2021 Goals: Doing some side projects again
