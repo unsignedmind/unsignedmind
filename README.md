@@ -26,23 +26,8 @@ I'm a passionate frontend developer working with frameworks like React and Angul
 
 ### Connect with me:
 
-<div style="display: flex; justify-content: space-evenly; align-items: baseline; background-color: #fff; padding: 10px; width: 100%; height: 30px; border-radius: 5px;">
-
-<div>
-
-[<img align="left" alt="unsignedmind | Portfolio" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111543.svg" height="30" width="30">][website]
-
-</div>
-
-<div>
-
-[<img align="left" alt="unsignedmind | LinkedIn" src="https://cdn-icons-png.flaticon.com/512/174/174857.png " height="30" width="30">][linkedin]
-
-</div>
-
-</div>
-
-<br />
+- [Website|website]
+- [LinkedIn|linkedin]
 
 ### Skills:
 
