@@ -26,8 +26,8 @@ I'm a passionate frontend developer working with frameworks like React and Angul
 
 ### Connect with me:
 
-- [Website|website]
-- [LinkedIn|linkedin]
+- [Website][website]
+- [LinkedIn][linkedin]
 
 ### Skills:
 
